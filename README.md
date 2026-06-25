@@ -77,3 +77,7 @@
 - QQ群:764079194
 
 ![kaguya_yee](emoji/kaguya_yee.jpg)
+
+## 开源协议 / License
+
+本项目采用 [CC BY-NC-SA 4.0 (署名-非商业性使用-相同方式共享)](LICENSE) 许可协议。
