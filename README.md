@@ -81,3 +81,19 @@
 ## 开源协议 / License
 
 本项目采用 [CC BY-NC-SA 4.0 (署名-非商业性使用-相同方式共享)](LICENSE) 许可协议。
+
+## 大型资料下载
+
+课程课件与硬件接线照片已移至 [archive-2026 Release](https://github.com/Henu-Kaguya/Principles-of-Computer-Organization/releases/tag/archive-2026)：
+
+| Release 资产 | 说明 |
+|---|---|
+| `principles-computer-organization-rain-class.zip` | 雨课堂全套 11 讲教学课件（PDF 共 11 个文件） |
+| `principles-computer-organization-final-exam.zip` | 期末考试考点串讲与复习要点（PDF 共 9 个文件） |
+| `exp01-photos.zip` | 实验一 运算器数据通路与算术逻辑单元接线图集 |
+| `exp02-photos.zip` | 实验二 存储系统与多周期读写实物连线图集 |
+| `exp03-photos.zip` | 实验三 控制器设计与微程序控制器接线图集 |
+| `exp04-photos.zip` | 实验四 基本模型机综合硬件连线图集 |
+| `exp05-photos.zip` | 实验五 复杂模型机与中断处理接线图集 |
+
+`exams/`、`exercises/`、`notes/`、`emoji/` 以及各实验说明文档/代码继续在 Git 中维护。
